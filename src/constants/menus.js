@@ -1,7 +1,7 @@
 export const MENUS = {
   // AUTH
-  LOGIN: "/auth/login",
-  REGISTER: "/auth/register",
+  LOGIN: "/login",
+  REGISTER: "/register",
 
   // Home
   HOME: "/",
